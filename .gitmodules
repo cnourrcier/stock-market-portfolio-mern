@@ -1,0 +1,6 @@
+[submodule "stock-market-portfolio-backend"]
+	path = stock-market-portfolio-backend
+	url = https://github.com/cnourrcier/stock-market-portfolio-backend.git
+[submodule "stock-market-portfolio-frontend"]
+	path = stock-market-portfolio-frontend
+	url = https://github.com/cnourrcier/stock-market-portfolio-frontend.git
