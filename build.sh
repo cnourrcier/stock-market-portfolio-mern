@@ -5,10 +5,10 @@ cd stock-market-portfolio-backend
 npm install
 
 # Navigate back to the root directory
-cd..
+cd ..
 
 # Navigate to the client directory
-cd client
+cd stock-market-portfolio-frontend
 
 # Install dependencies
 npm install
