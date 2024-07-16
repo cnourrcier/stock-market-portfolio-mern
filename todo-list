@@ -1,18 +1,9 @@
 
-// Frontend
-// 1. Add functionality to not allow duplicate stocks to be added
-
-// Backend
 
 // ***************************
 
 
 // Potential Ideas
 
-// Use web scraping to get real time stock data and display to the frontend
-
-// Add more stocks to page
 // Add sorting/filter functionality to sort/filter the stock list by different criteria (abc, price, positive change, etc. Look at examples for reference)
-// Maybe add search feature to search for stock?
 // Create options to aggregate and manipulate data to display in graphs and charts
-// Have option to show stock history over time
