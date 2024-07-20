@@ -10,7 +10,7 @@
 ![REACT](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react)
 
 
-https://res.cloudinary.com/dwguf4w1t/image/upload/v1721177232/Portfolio%20Projects/stock-market-portfolio-dark_dmby4o.gif
+![Stock Market Portfolio GIF](https://res.cloudinary.com/dwguf4w1t/image/upload/v1721177232/Portfolio%20Projects/stock-market-portfolio-dark_dmby4o.gif)
 
 
 ## Contact Me
