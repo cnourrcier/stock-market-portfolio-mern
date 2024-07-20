@@ -8,3 +8,8 @@
 ![MUI](https://img.shields.io/badge/mui-white?style=for-the-badge&logo=mui)
 ![JS](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=bright-yellow)
 ![REACT](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react)
+
+
+## Contact
+
+[![linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlienourrcier/)
