@@ -10,6 +10,9 @@
 ![REACT](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react)
 
 
-## Contact
+https://res.cloudinary.com/dwguf4w1t/image/upload/v1721177232/Portfolio%20Projects/stock-market-portfolio-dark_dmby4o.gif
+
+
+## Contact Me
 
 [![linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlienourrcier/)
